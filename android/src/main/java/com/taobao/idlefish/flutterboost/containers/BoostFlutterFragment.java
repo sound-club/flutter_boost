@@ -23,10 +23,10 @@
  */
 package com.taobao.idlefish.flutterboost.containers;
 
+import android.app.Fragment;
 import android.content.Context;
 import android.graphics.Color;
 import android.os.Bundle;
-import android.support.v4.app.Fragment;
 import android.util.Log;
 import android.view.Gravity;
 import android.view.LayoutInflater;
@@ -36,7 +36,6 @@ import android.widget.FrameLayout;
 import android.widget.ProgressBar;
 
 import com.taobao.idlefish.flutterboost.BoostFlutterView;
-import com.taobao.idlefish.flutterboost.Debuger;
 import com.taobao.idlefish.flutterboost.FlutterBoostPlugin;
 import com.taobao.idlefish.flutterboost.interfaces.IFlutterViewContainer;
 
